@@ -1,0 +1,485 @@
+# Translation of Themes - Super Construction in Vietnamese
+# This file is distributed under the same license as the Themes - Super Construction package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-23 05:11:43+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Themes - Super Construction\n"
+
+#. Description of the theme
+msgid "Super Construction is highly customizable, easy to use and modern WordPress theme for construction companies, architectures and builders. It is clean, responsive and SEO friendly theme. This theme is flexible enough to use for business, corporate, blog, digital agency, portfolio and other creative website development. View full demo at https://www.prodesigns.com/wordpress-themes/demo/super-construction"
+msgstr "Super Construction có khả năng tùy biến cao, dễ sử dụng và chủ đề WordPress hiện đại cho các công ty xây dựng, kiến ​​trúc và nhà xây dựng. Đó là chủ đề thân thiện, sạch sẽ và thân thiện với SEO. Chủ đề này đủ linh hoạt để sử dụng cho doanh nghiệp, công ty, blog, đại lý kỹ thuật số, danh mục đầu tư và phát triển trang web sáng tạo khác. Xem bản trình diễn đầy đủ tại https://www.prodesigns.com/wordpress-themes/demo/super-construction"
+
+#. Theme Name of the theme
+msgid "Super Construction"
+msgstr "Super Construction"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:46
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: template-parts/content-page.php:34 template-parts/content-single.php:50
+msgid "Pages:"
+msgstr "Trang:"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-page.php:29 template-parts/content-single.php:45
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Tiếp tục đọc %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: template-parts/breadcrumbs.php:37
+msgid "Search Results for: %s"
+msgstr "Kết quả tìm kiếm cho: %s"
+
+#: includes/widgets/services-widget.php:209
+msgid "&mdash; Select &mdash;"
+msgstr "&mdash; Chọn &mdash;"
+
+#: includes/widgets/services-widget.php:202
+msgid "Page:"
+msgstr "Trang:"
+
+#: includes/widgets/services-widget.php:193
+msgid "Leave this field empty if you want to hide read more button in services section"
+msgstr "Để trống trường này nếu bạn muốn ẩn nút đọc thêm trong phần dịch vụ"
+
+#: includes/widgets/services-widget.php:190
+msgid "Read More Text:"
+msgstr "Đọc thêm Văn bản:"
+
+#: includes/widgets/services-widget.php:184
+msgid "Excerpt Length:"
+msgstr "Độ dài trích đoạn:"
+
+#: includes/widgets/services-widget.php:155
+msgid "Read More"
+msgstr "Đọc tiếp"
+
+#: includes/widgets/services-widget.php:10
+msgid "BP: Services"
+msgstr "BP: Dịch vụ"
+
+#: includes/widgets/services-widget.php:8
+msgid "Display services."
+msgstr "Dịch vụ hiển thị."
+
+#: includes/widgets/latest-news-widget.php:198
+msgid "Hide Posted Date"
+msgstr "Ẩn Ngày đăng"
+
+#: includes/widgets/latest-news-widget.php:193
+msgid "Enter category id seperated with comma. Posts from these categories will be excluded from latest post listing."
+msgstr "Nhập id danh mục được phân tách bằng dấu phẩy. Các bài đăng từ các danh mục này sẽ bị loại trừ khỏi danh sách bài đăng mới nhất."
+
+#: includes/widgets/latest-news-widget.php:190
+msgid "Exclude Categories:"
+msgstr "Loại trừ danh mục:"
+
+#: includes/widgets/latest-news-widget.php:184
+msgid "All Categories"
+msgstr "Tất cả danh mục"
+
+#: includes/widgets/latest-news-widget.php:174
+msgid "Select Category:"
+msgstr "Chọn loại:"
+
+#: includes/widgets/services-widget.php:178
+#: includes/widgets/latest-news-widget.php:170
+msgid "Sub Title:"
+msgstr "Tiêu đề phụ:"
+
+#: includes/widgets/services-widget.php:173
+#: includes/widgets/services-widget.php:215
+#: includes/widgets/latest-news-widget.php:166
+msgid "Icon:"
+msgstr "Biểu tượng:"
+
+#: includes/widgets/services-widget.php:168
+#: includes/widgets/latest-news-widget.php:162
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: includes/widgets/latest-news-widget.php:11
+msgid "BP: Latest News"
+msgstr "BP: Tin mới nhất"
+
+#: includes/widgets/latest-news-widget.php:8
+msgid "Latest News Widget"
+msgstr "Widget tin tức mới nhất"
+
+#: includes/theme-info/class-about.php:700
+msgid "Super Construction Free"
+msgstr "Siêu xây dựng miễn phí"
+
+#: includes/theme-info/class-about.php:569
+msgid "Deactivate"
+msgstr "Tắt"
+
+#: includes/theme-info/class-about.php:565
+msgid "Activate"
+msgstr "Kích hoạt"
+
+#: includes/theme-info/class-about.php:561
+msgid "Install"
+msgstr "Cài đặt"
+
+#: includes/theme-info/class-about.php:164
+msgid "Get started with %s"
+msgstr "Bắt đầu với %s"
+
+#: includes/theme-info/class-about.php:164
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr "Chào mừng bạn! Cảm ơn bạn đã chọn %1$s! Để tận dụng tối đa những gì tốt nhất mà chủ đề của chúng tôi có thể cung cấp, hãy đảm bảo bạn truy cập trang%2$swelcome page%3$s."
+
+#: includes/theme-info/about.php:230
+msgid "High Priority"
+msgstr "Ưu tiên cao"
+
+#: includes/theme-info/about.php:228
+msgid "Highly experienced and dedicated support team for your help plus online chat."
+msgstr "Đội ngũ hỗ trợ có kinh nghiệm và tận tụy với sự giúp đỡ của bạn cộng với trò chuyện trực tuyến."
+
+#: includes/theme-info/about.php:227
+msgid "Support Forum"
+msgstr "Diễn đàn hỗ trợ"
+
+#: includes/theme-info/about.php:222
+msgid "Developed with high skilled SEO tools."
+msgstr "Được phát triển với các công cụ SEO có kỹ năng cao."
+
+#: includes/theme-info/about.php:221
+msgid "SEO"
+msgstr "SEO"
+
+#: includes/theme-info/about.php:216
+msgid "Option to Override existing Powerby credit of footer"
+msgstr "Tùy chọn để ghi đè tín dụng Powerby hiện tại của chân trang"
+
+#: includes/theme-info/about.php:215
+msgid "Override Footer Credit"
+msgstr "Ghi đè tín dụng chân trang"
+
+#: includes/theme-info/about.php:210
+msgid "Option to enable/disable Powerby(Designer) credit in footer"
+msgstr "Tùy chọn bật / tắt tín dụng Powerby (Designer) ở chân trang"
+
+#: includes/theme-info/about.php:209
+msgid "Hide Footer Credit"
+msgstr "Ẩn tín dụng chân trang"
+
+#: includes/theme-info/about.php:204
+msgid "Widget to display facts count that goes up when viewport is visible"
+msgstr "Tiện ích con để hiển thị số lượng sự kiện tăng lên khi chế độ xem hiển thị"
+
+#: includes/theme-info/about.php:203
+msgid "Fact Counter"
+msgstr "Số lượt truy cập"
+
+#: includes/theme-info/about.php:197
+msgid "Widget to display latest products in carousel mode"
+msgstr "Widget để hiển thị các sản phẩm mới nhất trong chế độ băng chuyền"
+
+#: includes/theme-info/about.php:196
+msgid "Latest Product Carousel"
+msgstr "Băng chuyền sản phẩm mới nhất"
+
+#: includes/theme-info/about.php:191
+msgid "Theme supports/works with WooCommerce plugin"
+msgstr "Hỗ trợ chủ đề / làm việc với plugin WooCommerce"
+
+#: includes/theme-info/about.php:190
+msgid "WooCommerce Ready"
+msgstr "Sẵn sàng WooCommerce"
+
+#: includes/theme-info/about.php:187 includes/theme-info/about.php:193
+#: includes/theme-info/about.php:199 includes/theme-info/about.php:206
+#: includes/theme-info/about.php:212 includes/theme-info/about.php:218
+#: includes/theme-info/about.php:229
+msgid "yes"
+msgstr "Có"
+
+#: includes/theme-info/about.php:186 includes/theme-info/about.php:192
+#: includes/theme-info/about.php:198 includes/theme-info/about.php:205
+#: includes/theme-info/about.php:211 includes/theme-info/about.php:217
+msgid "no"
+msgstr "Không"
+
+#: includes/theme-info/about.php:185
+msgid "Options to change primary color of the site"
+msgstr "Các tùy chọn để thay đổi màu cơ bản của trang web"
+
+#: includes/theme-info/about.php:184
+msgid "Color Options"
+msgstr "Tùy chọn màu"
+
+#: includes/theme-info/about.php:181
+msgid "100+"
+msgstr "100+"
+
+#: includes/theme-info/about.php:179
+msgid "Google fonts options for changing the overall site fonts"
+msgstr "Các tùy chọn phông chữ của Google để thay đổi phông chữ trang web tổng thể"
+
+#: includes/theme-info/about.php:178
+msgid "Google Fonts"
+msgstr "Phông Google"
+
+#: includes/theme-info/about.php:174
+msgid "12"
+msgstr "12"
+
+#: includes/theme-info/about.php:173
+msgid "10"
+msgstr "10"
+
+#: includes/theme-info/about.php:172
+msgid "Widgets added by theme to enhance features"
+msgstr "Tiện ích được thêm theo chủ đề để tăng cường các tính năng"
+
+#: includes/theme-info/about.php:171
+msgid "Custom Widgets"
+msgstr "Tiện ích tùy chỉnh"
+
+#: includes/theme-info/about.php:162
+msgid "Upgrade to pro version for more exciting features and additional theme options."
+msgstr "Nâng cấp lên phiên bản chuyên nghiệp để có nhiều tính năng thú vị hơn và các tùy chọn chủ đề bổ sung."
+
+#: includes/theme-info/about.php:153
+msgid "About child theme"
+msgstr "Giới thiệu về chủ đề con"
+
+#: includes/theme-info/about.php:152
+msgid "If you want to customize theme file, you should use child theme rather than modifying theme file itself."
+msgstr "Nếu bạn muốn tùy chỉnh tập tin chủ đề, bạn nên sử dụng chủ đề con hơn là sửa đổi tập tin chủ đề của chính nó."
+
+#: includes/theme-info/about.php:150
+msgid "Child Theme"
+msgstr "Chủ đề trẻ em"
+
+#: includes/theme-info/about.php:143
+msgid "We have dedicated team members for theme customization. Feel free to contact us any time if you need any customization service."
+msgstr "Chúng tôi có các thành viên nhóm chuyên dụng để tùy chỉnh chủ đề. Hãy liên hệ với chúng tôi bất kỳ lúc nào nếu bạn cần bất kỳ dịch vụ tùy biến nào."
+
+#: includes/theme-info/about.php:141 includes/theme-info/about.php:144
+msgid "Customization Request"
+msgstr "Yêu cầu tùy chỉnh"
+
+#: includes/theme-info/about.php:135
+msgid "Video Tutorials"
+msgstr "Video hướng dẫn"
+
+#: includes/theme-info/about.php:134
+msgid "Please check our youtube channel for video instructions of Super Construction setup and customization."
+msgstr "Vui lòng kiểm tra kênh youtube của chúng tôi để xem hướng dẫn bằng video về thiết lập và tùy chỉnh Super Construction."
+
+#: includes/theme-info/about.php:132
+msgid "Youtube Video Tutorials"
+msgstr "Hướng dẫn bằng video trên Youtube"
+
+#: includes/theme-info/about.php:126
+msgid "View Pro Version"
+msgstr "Xem phiên bản Pro"
+
+#: includes/theme-info/about.php:125
+msgid "Upgrade to pro version for additional features and options."
+msgstr "Nâng cấp lên phiên bản chuyên nghiệp để có các tính năng và tùy chọn bổ sung."
+
+#: includes/theme-info/about.php:122
+msgid "Pro Version"
+msgstr "Phiên bản chuyên nghiệp"
+
+#: includes/theme-info/about.php:115
+msgid "Kindly check our theme documentation for detailed information and video instructions."
+msgstr "Vui lòng kiểm tra tài liệu chủ đề của chúng tôi để biết thông tin chi tiết và hướng dẫn bằng video."
+
+#: includes/theme-info/about.php:106
+msgid "If you have any problem, feel free to create ticket on our dedicated Support forum."
+msgstr "Nếu bạn có bất kỳ vấn đề gì, vui lòng tạo vé trên diễn đàn Hỗ trợ riêng của chúng tôi."
+
+#: includes/theme-info/about.php:104 includes/theme-info/about.php:107
+msgid "Contact Support"
+msgstr "Liên hệ hỗ trợ"
+
+#: includes/theme-info/about.php:93
+msgid "Please install the One Click Demo Import plugin to import the demo content. After activation go to Appearance >> Import Demo Data and import it."
+msgstr "Vui lòng cài đặt plugin Nhập One Demo Demo để nhập nội dung bản trình diễn. Sau khi kích hoạt, hãy vào Giao diện >> Nhập dữ liệu trình diễn và nhập dữ liệu."
+
+#: includes/theme-info/about.php:92
+msgid "One Click Demo Import"
+msgstr "Nhập một bản trình diễn nhấp chuột"
+
+#: includes/theme-info/about.php:88
+msgid "Static Front Page"
+msgstr "Trang trước tĩnh"
+
+#: includes/theme-info/about.php:85
+msgid "Create a new page to display on front page ( Ex: Home ) and assign \"Home\" template. Select A static page then Front page and Posts page to display front page specific sections. Note: Static page will be set automatically when you import demo content."
+msgstr "Tạo trang mới để hiển thị trên trang chủ (Ví dụ: Trang chủ) và gán mẫu  \"Trang chủ \". Chọn Một trang tĩnh sau đó trang Mặt trận và trang Bài đăng để hiển thị các phần cụ thể của trang trước. Lưu ý: Trang tĩnh sẽ được đặt tự động khi bạn nhập nội dung demo."
+
+#: includes/theme-info/about.php:84
+msgid "Setting Static Front Page"
+msgstr "Đặt trang trước tĩnh"
+
+#: includes/theme-info/about.php:71
+msgid "Go to Customizer"
+msgstr "Chuyển đến Trình tùy chỉnh"
+
+#: includes/theme-info/about.php:70
+msgid "Start customizing every aspect of the website with customizer."
+msgstr "Bắt đầu tùy chỉnh mọi khía cạnh của trang web với tùy biến."
+
+#: includes/theme-info/about.php:69
+msgid "Customize Everything"
+msgstr "Tùy chỉnh mọi thứ"
+
+#: includes/theme-info/about.php:62
+msgid "Check recommended actions"
+msgstr "Kiểm tra các hành động được đề xuất"
+
+#: includes/theme-info/about.php:61
+msgid "We recommend few steps to take so that you can get complete site like shown in demo."
+msgstr "Chúng tôi khuyên bạn nên thực hiện một vài bước để bạn có thể có được trang web hoàn chỉnh như được hiển thị trong bản trình diễn."
+
+#: includes/theme-info/about.php:53
+msgid "View documentation"
+msgstr "Xem tài liệu"
+
+#: includes/theme-info/about.php:52
+msgid "Find step by step instructions with video documentation to setup theme easily."
+msgstr "Tìm hướng dẫn từng bước với tài liệu video để thiết lập chủ đề dễ dàng."
+
+#: includes/theme-info/about.php:51 includes/theme-info/about.php:113
+msgid "Theme Documentation"
+msgstr "Tài liệu chủ đề"
+
+#: includes/theme-info/about.php:45
+msgid "FREE VS. PRO"
+msgstr "FREE VS. PRO"
+
+#: includes/theme-info/class-about.php:603 includes/theme-info/about.php:44
+#: includes/theme-info/about.php:163
+msgid "Upgrade to Pro"
+msgstr "Nâng cấp lên Pro"
+
+#: includes/theme-info/about.php:43
+msgid "Support"
+msgstr "Hỗ trợ"
+
+#: includes/theme-info/about.php:42 includes/theme-info/about.php:60
+msgid "Recommended Actions"
+msgstr "Hành động được đề xuất"
+
+#: includes/theme-info/about.php:41
+msgid "Getting Started"
+msgstr "Bắt đầu"
+
+#: includes/theme-info/about.php:34
+msgid "Rate This Theme"
+msgstr "Xếp hạng chủ đề này"
+
+#: includes/theme-info/about.php:29 includes/theme-info/about.php:116
+msgid "View Documentation"
+msgstr "Xem tài liệu"
+
+#: includes/theme-info/about.php:25
+msgid "View Demo"
+msgstr "Xem bản trình diễn"
+
+#: includes/theme-info/about.php:21
+msgid "Theme Details"
+msgstr "Chi tiết chủ đề"
+
+#. translators: 1: theme name
+#: includes/theme-info/about.php:16
+msgid "We hope this page will help you to setup %1$s with few clicks. We believe you will find it easy to use and perfect for your website development."
+msgstr "Chúng tôi hy vọng trang này sẽ giúp bạn thiết lập %1$s chỉ với vài cú nhấp chuột. Chúng tôi tin rằng bạn sẽ thấy nó dễ sử dụng và hoàn hảo cho việc phát triển trang web của bạn."
+
+#. translators: theme version
+#: includes/theme-info/about.php:13
+msgid "Welcome to %s - "
+msgstr "Chào mừng phiên bản %s - "
+
+#: includes/theme-info/about.php:9 includes/theme-info/about.php:10
+msgid "About Super Construction"
+msgstr "Giới thiệu Super Construction"
+
+#: includes/override.php:98
+msgctxt "Dosis font: on or off"
+msgid "on"
+msgstr "trên"
+
+#. translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: includes/override.php:94
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "trên"
+
+#: includes/override.php:48
+msgid "Buy Pro"
+msgstr "Mua Pro"
+
+#: includes/theme-info/class-about.php:701 includes/override.php:47
+msgid "Super Construction Plus"
+msgstr "Super Construction Plus"
+
+#: includes/override.php:17
+msgid "%1$s by %2$s"
+msgstr "%1$s bởi %2$s"
+
+#: includes/demo/demo.php:18
+msgid "Theme Demo Content"
+msgstr "Nội dung trình diễn chủ đề"
+
+#: includes/customizer/options.php:62
+msgid "Center"
+msgstr "Chính giữa"
+
+#: includes/customizer/options.php:61
+msgid "Right"
+msgstr "Phải"
+
+#: includes/customizer/options.php:60
+msgid "Left"
+msgstr "Trái"
+
+#: includes/customizer/options.php:56
+msgid "Caption Position"
+msgstr "Vị trí phụ đề"
+
+#: includes/customizer/options.php:39
+msgid "Select Slide"
+msgstr "Chọn trang trình bày"
+
+#: includes/customizer/options.php:24
+msgid "Slide "
+msgstr "Slide "
+
+#: includes/custom-header.php:43
+msgctxt "second banner"
+msgid "inner-banner-two"
+msgstr "bên trong-biểu ngữ-hai"
+
+#: includes/custom-header.php:38
+msgctxt "default banner"
+msgid "inner-banner-one"
+msgstr "bên trong biểu ngữ-một"
+
+#. Author URI of the theme
+msgid "https://www.prodesigns.com"
+msgstr "https://www.prodesigns.com"
+
+#. Author of the theme
+msgid "ProDesigns"
+msgstr "ProDesigns"
+
+#. Theme URI of the theme
+msgid "https://www.prodesigns.com/wordpress-themes/downloads/super-construction/"
+msgstr "https://www.prodesigns.com/wordpress-themes/downloads/super-construction/"

@@ -1,0 +1,92 @@
+
+---Downloaded files---
+The import files for: Reinform Food Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8686/heoquayso1danang.com
+Data file = E:\Xampp\htdocs\heoquayso1danang.com/wp-content/uploads/2019/02/demo-content-import-file_2019-02-25__04-44-34.xml
+Widget file = E:\Xampp\htdocs\heoquayso1danang.com/wp-content/uploads/2019/02/demo-widgets-import-file_2019-02-25__04-44-34.json
+Customizer file = E:\Xampp\htdocs\heoquayso1danang.com/wp-content/uploads/2019/02/demo-customizer-import-file_2019-02-25__04-44-34.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import jetpack-portfolio-tag Travel
+[WARNING] Failed to import jetpack-portfolio-type Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import jetpack-portfolio-tag Travel
+[WARNING] Failed to import jetpack-portfolio-type Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import jetpack-portfolio-tag Travel
+[WARNING] Failed to import jetpack-portfolio-type Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import jetpack-portfolio-tag Travel
+[WARNING] Failed to import jetpack-portfolio-type Travel
+
+
+------
+New AJAX call!
+[WARNING] Failed to import jetpack-portfolio-tag Travel
+[WARNING] Failed to import jetpack-portfolio-type Travel
+[WARNING] Failed to import "Hawaii: Lomi Salmon": Invalid post type jetpack-portfolio
+[WARNING] Failed to import "Fantastic food of India": Invalid post type jetpack-portfolio
+
+
+------
+New AJAX call!
+[WARNING] Failed to import jetpack-portfolio-tag Travel
+[WARNING] Failed to import jetpack-portfolio-type Travel
+[WARNING] Failed to import "Hawaii: Lomi Salmon": Invalid post type jetpack-portfolio
+[WARNING] Failed to import "Fantastic food of India": Invalid post type jetpack-portfolio
+
+
+------
+New AJAX call!
+[WARNING] Failed to import jetpack-portfolio-tag Travel
+[WARNING] Failed to import jetpack-portfolio-type Travel
+[WARNING] Failed to import "Hawaii: Lomi Salmon": Invalid post type jetpack-portfolio
+[WARNING] Failed to import "Fantastic food of India": Invalid post type jetpack-portfolio
+[WARNING] Failed to import "Chinese Herb Tea": Invalid post type jetpack-portfolio
+[WARNING] Failed to import "Mexico: Land Of Great Avocados": Invalid post type jetpack-portfolio
+[WARNING] Failed to import "France and Croissants": Invalid post type jetpack-portfolio
+[WARNING] Failed to import "Drinks Of Brazil": Invalid post type jetpack-portfolio
+[WARNING] Failed to import "Spanish Sangria": Invalid post type jetpack-portfolio
+[WARNING] Failed to import "Swiss Chocolate": Invalid post type jetpack-portfolio
+[WARNING] Failed to import "Italy and Espresso": Invalid post type jetpack-portfolio
+[WARNING] Failed to import "North America Blueberries": Invalid post type jetpack-portfolio
+[WARNING] Failed to import "Italian wine": Invalid post type jetpack-portfolio
+[WARNING] Failed to import "Japanese Spices": Invalid post type jetpack-portfolio
+[WARNING] Failed to import "Guatemala Chia Seed": Invalid post type jetpack-portfolio
+
+
+---Importing widgets---
+Sidebar : 
+
+Văn bản - No Title - Imported
+Chuyên mục - No Title - Imported
+Bài viết mới - No Title - Imported
+facebook-likebox - No Title - Site does not support widget
+
+Footer Widgets 1 : 
+
+Thanh điều hướng - Pages - Imported
+Thanh điều hướng - Recipes - Imported
+
+Footer Widgets 3 : 
+
+blog_subscription - Subscribe to Blog via Email - Site does not support widget
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

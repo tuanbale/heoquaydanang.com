@@ -1,0 +1,65 @@
+
+---Downloaded files---
+The import files for: Nội dung trình diễn chủ đề were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8686/heoquaydanang.com
+Data file = E:\Xampp\htdocs\heoquaydanang.com/wp-content/themes/super-construction/includes/demo/demo-content/content.xml
+Widget file = E:\Xampp\htdocs\heoquaydanang.com/wp-content/themes/super-construction/includes/demo/demo-content/widget.wie
+Customizer file = E:\Xampp\htdocs\heoquaydanang.com/wp-content/themes/super-construction/includes/demo/demo-content/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Tìm kiếm - No Title - Widget already exists
+BP: Social - Follow Us - Imported
+Gallery ảnh - Our Gallery - Imported
+BP: Advanced Recent Posts - Recent Posts - Imported
+
+Home Page Widget Area : 
+
+BP: Dịch vụ - Our Services - Imported
+BP: CTA - WORKING WITH US - Imported
+PT: Portfolio - Our Projects - Imported
+PT: Testimonials - Testimonials - Imported
+PT: Our Team - Our Team - Imported
+PT: Clients - No Title - Imported
+
+Footer 1 : 
+
+Văn bản - About Us - Imported
+BP: Social - No Title - Imported
+
+Footer 2 : 
+
+Gallery ảnh - Recent Projects - Imported
+
+Footer 3 : 
+
+Bài viết mới - No Title - Imported
+
+Footer 4 : 
+
+BP: Advanced Recent Posts - Recent Posts - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

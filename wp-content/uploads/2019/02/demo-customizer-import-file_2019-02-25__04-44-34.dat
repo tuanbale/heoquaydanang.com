@@ -1,0 +1,15 @@
+a:4:{s:8:"template";s:8:"reinform";s:4:"mods";a:28:{i:0;b:0;s:18:"custom_css_post_id";i:404;s:16:"header_textcolor";s:5:"blank";s:19:"blog_layout_setting";s:9:"newspaper";s:24:"portfolio_layout_setting";s:13:"three-columns";s:24:"featured_category_enable";b:1;s:25:"featured_category_heading";s:14:"Quick and Easy";s:24:"featured_category_select";s:9:"appetizer";s:30:"single_fullwidth_fetured_image";i:1;s:29:"featured_category_cat_exclude";b:0;s:25:"reinform_featured_content";s:8:"viewport";s:18:"nav_menu_locations";a:2:{s:6:"menu-1";i:21;s:19:"jetpack-social-menu";i:27;}s:16:"instagram_enable";b:1;s:18:"instagram_username";s:15:"blackwhitevivid";s:21:"logo_position_setting";s:7:"default";s:21:"sticky_header_setting";s:7:"disable";s:12:"header_image";s:13:"remove-header";s:11:"custom_logo";i:608;s:22:"paragraphs_font_weight";s:0:"";s:22:"reinform_body_bg_color";s:7:"#f0eaea";s:24:"reinform_header_bg_color";s:7:"#fcf8f8";s:26:"reinform_header_text_color";s:7:"#0c0a0a";s:24:"reinform_meta_link_color";s:7:"#7d9e60";s:20:"headings_font_weight";s:0:"";s:20:"headings_font_family";s:8:"Vidaloka";s:22:"paragraphs_font_family";s:6:"Roboto";s:31:"reinform_search_social_bg_color";s:7:"#fcf8f8";s:26:"reinform_comments_bg_color";s:7:"#e6dfdf";}s:7:"options";a:9:{s:26:"featured-content[tag-name]";s:8:"Featured";s:26:"featured-content[hide-tag]";i:0;s:26:"featured-content[show-all]";i:0;s:9:"site_icon";s:3:"599";s:26:"jetpack_content_author_bio";s:1:"1";s:33:"jetpack_content_post_details_date";i:1;s:39:"jetpack_content_post_details_categories";i:1;s:33:"jetpack_content_post_details_tags";i:1;s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:206:".nav-menu a {
+    font-weight: normal;
+}
+
+.dropdown-toggle {
+		padding: 8px 2px;
+}
+
+div.sharedaddy h3.sd-title {
+ 		font-weight: normal;
+}
+
+div.sharedaddy .sd-social h3.sd-title {
+		padding: 7px 18px 7px;
+}";}

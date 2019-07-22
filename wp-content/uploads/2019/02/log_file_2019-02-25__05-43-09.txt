@@ -1,0 +1,82 @@
+
+---Downloaded files---
+The import files for: Theme Demo Content were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost:8686/heoquayso1danang.com
+Data file = E:\Xampp\htdocs\heoquayso1danang.com/wp-content/themes/business-point/includes/demo/demo-content/content.xml
+Widget file = E:\Xampp\htdocs\heoquayso1danang.com/wp-content/themes/business-point/includes/demo/demo-content/widget.wie
+Customizer file = E:\Xampp\htdocs\heoquayso1danang.com/wp-content/themes/business-point/includes/demo/demo-content/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Promenade Themes": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Promenade Themes": Invalid post type mc4wp-form
+[WARNING] Failed to import "Contact Us": Invalid post type wpcf7_contact_form
+
+
+---Importing widgets---
+Sidebar : 
+
+Tìm kiếm - No Title - Imported
+Video - Latest Video - Imported
+HTML Tùy chỉnh - No Title - Imported
+HTML Tùy chỉnh - Youtube Video - Imported
+
+Home Page Widget Area : 
+
+BP: Services - Our Services - Imported
+BP: CTA - Are you impressed with us? - Imported
+PT: Our Team - Our Team - Imported
+PT: Clients - Our Clients - Imported
+PT: Portfolio - Our Portfolio - Imported
+PT: Testimonials - What Our Clients Say - Imported
+BP: Latest News - Recent Posts - Imported
+BP: Newsletter - Subscribe us to get updated - Imported
+
+Footer 1 : 
+
+Văn bản - About Us - Imported
+BP: Social - No Title - Imported
+
+Footer 2 : 
+
+BP: Advanced Recent Posts - Advanced Recent Posts - Imported
+
+Footer 3 : 
+
+Bài viết mới - No Title - Imported
+
+Footer 4 : 
+
+Gallery ảnh - Gallery - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+
